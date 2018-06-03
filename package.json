@@ -6,36 +6,37 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "assert-dir-equal": "^1.1.0",
+  "dependencies": {
     "async": "^2.6.1",
     "debug": "^3.1.0",
     "merge": "^1.2.0",
-    "metalsmith": "^2.3.0",
-    "mocha": "^5.2.0",
     "recursive-readdir": "^2.2.2",
     "stat-mode": "^0.2.2"
   },
+  "devDependencies": {
+    "assert-dir-equal": "^1.1.0",
+    "metalsmith": "^2.3.0",
+    "mocha": "^5.2.0"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/treygriffith/metalsmith-assets"
+    "url": "https://github.com/auruscha/mrs-smith-assets"
   },
   "keywords": [
-    "metalsmith",
+    "mrs-smith",
     "static",
     "assets"
   ],
   "author": {
-    "name": "Trey Griffith",
-    "email": "trey@tgriff3.com",
-    "website": "http://tgriff3.com"
+    "name": "Au Ruscha",
+    "email": "auruscha@protonamil.com",
+    "website": "https://auruscha.github.io/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/treygriffith/metalsmith-assets/issues"
+    "url": "https://github.com/auruscha/mrs-smith-assets/issues"
   },
-  "homepage": "https://github.com/treygriffith/metalsmith-assets",
+  "homepage": "https://github.com/auruscha/mrs-smith-assets",
   "files": [
     "index.js"
   ]
